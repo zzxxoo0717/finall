@@ -1,4 +1,4 @@
-# 软件工程大作业（完整详细）火车订票管理系统
+![圖4-2](https://github.com/zzxxoo0717/finall/assets/71486133/67ab6d53-2aff-4a2b-9a60-80c54b5ae6eb)![圖4-2](https://github.com/zzxxoo0717/finall/assets/71486133/442fa7f0-c836-46b6-a83a-20bd85736c73)![圖4-2](https://github.com/zzxxoo0717/finall/assets/71486133/fe73d047-73bb-4476-bf1a-f006a61e88e6)# 软件工程大作业（完整详细）火车订票管理系统
 
 ## 目录
 
@@ -261,5 +261,26 @@
 > 4.2详细设计
 >> 4.2.1系统主要功能模块界面图
 
+![圖4-2](https://github.com/zzxxoo0717/finall/assets/71486133/d3849156-c87a-4f6a-bedb-45cf860f7620)
 
+图4-2 用户端首页
 
+![圖4-3](https://github.com/zzxxoo0717/finall/assets/71486133/bc5abec8-bf7a-49f5-8d4e-704d29ca8b2e)
+
+图4-3 车次信息界面
+
+![圖4-4](https://github.com/zzxxoo0717/finall/assets/71486133/8be8ff89-fbd9-4a57-b0d4-7d49a4e47e63)
+
+图4-4用户购票订单
+
+![圖4-5](https://github.com/zzxxoo0717/finall/assets/71486133/f3941037-bef9-41ac-a622-e597a08b03e4)
+
+图4-5用户改签订单
+
+![圖4-6](https://github.com/zzxxoo0717/finall/assets/71486133/be390e7b-109c-4751-b592-b591444c404d)
+
+图4-6车次管理界面
+
+![圖4-7](https://github.com/zzxxoo0717/finall/assets/71486133/03a1518b-c403-4eb6-80ab-d5b80631e3d8)
+
+图4-7退票管理界面
