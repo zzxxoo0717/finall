@@ -316,7 +316,7 @@
 图5-2系统功能类图
 
 > 5.3系统功能时序图
-![圖5-3](https://github.com/zzxxoo0717/finall/assets/71486133/49b9bf3a-be5a-47c2-a32c-ec69750d2c8c)
+![圖5-3 drawio](https://github.com/zzxxoo0717/finall/assets/71486133/8fb4a972-8af7-47fb-b52b-fda50e8c46d5)
 
 图5-3系统功能时序图
 
